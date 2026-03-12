@@ -24,6 +24,7 @@ If the dataset is too large for GitHub, a sample is included for reproducibility
 
 ## Repository Structure
 
+```
 data-analysis-project
 │
 ├── data
@@ -41,7 +42,7 @@ data-analysis-project
 ├── data_dictionary.md
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Methodology
@@ -107,3 +108,4 @@ jupyter notebook notebooks/analysis.ipynb
 
 Your Name  
 Final Project for Descriptive Analytics & Data Integrity Course – Spring 2026
+
